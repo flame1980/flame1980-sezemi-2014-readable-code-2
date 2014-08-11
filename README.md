@@ -9,3 +9,9 @@
 $ cd [source path]
 $ php index.php
 ```
+
+## spec3
+
+- Recipe.php にファイルを分離（クラスにした）
+- まずはプロパティ $recipies に直接レシピを記述することにした
+    - 追加する場合はクラスを直接編集する
